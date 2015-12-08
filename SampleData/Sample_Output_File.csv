@@ -1,0 +1,652 @@
+Site, Name, Date, InTime, InStatus, InDoor, OutTime, OutStatus, OutDoor, Lunch, Break, Supper, Daily, Running
+GenericSiteA,Generic Employee 1,42302,0.48287037, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42303,0.492222222, , In Reader,0.877453704, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 1,42304,0.491296296, , In Reader,0.8775, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:30
+GenericSiteA,Generic Employee 1,42306,0.835844907, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42308, , No Punch, ,0.876331019, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42309,0.362326389, , In Reader,0.751875, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:45:00
+GenericSiteA,Generic Employee 1,42310,0.444918981, , In Reader,0.834837963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:00:00
+GenericSiteA,Generic Employee 1,42311, , No Punch, ,0.834606481, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42313,0.437094907, , In Reader,0.836030093, , Out Reader, 00:00, 00:00, 00:00, 09:30, 46:30:00
+GenericSiteA,Generic Employee 1,42315,0.450983796, , In Reader,0.834814815, , Out Reader, 00:00, 00:00, 00:00, 09:00, 55:30:00
+GenericSiteA,Generic Employee 1,42316,0.447939815, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42317,0.448310185, , In Reader,0.836724537, , Out Reader, 00:00, 00:00, 00:00, 09:15, 64:45:00
+GenericSiteA,Generic Employee 1,42318,0.448715278, , In Reader,0.835381944, , Out Reader, 00:00, 00:00, 00:00, 09:15, 74:00:00
+GenericSiteA,Generic Employee 1,42319, , No Punch, ,0.835509259, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42322,0.435752315, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42324,0.456608796, , In Reader,0.837094907, , Out Reader, 00:00, 00:00, 00:00, 09:00, 83:00:00
+GenericSiteA,Generic Employee 1,42325,0.439733796, , In Reader,0.835914352, , Out Reader, 00:00, 00:00, 00:00, 09:30, 92:30:00
+GenericSiteA,Generic Employee 1,42326, , No Punch, ,0.837847222, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42329,0.404976852, , In Reader,0.793599537, , Out Reader, 00:00, 00:00, 00:00, 09:15, 101:45:00
+GenericSiteA,Generic Employee 1,42330,0.445439815, , In Reader,0.834861111, , Out Reader, 00:00, 00:00, 00:00, 09:15, 111:00:00
+GenericSiteA,Generic Employee 1,42331, , No Punch, ,0.83474537, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 1,42332,0.441469907, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 2,42303,0.492164352, , In Reader,0.876111111, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 2,42305,0.494722222, , In Reader,0.876041667, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:15
+GenericSiteA,Generic Employee 2,42306,0.483703704, , In Reader,0.875810185, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:30:00
+GenericSiteA,Generic Employee 2,42307,0.365011574, , In Reader,0.751400463, , Out Reader, 00:00, 00:00, 00:00, 09:15, 36:45:00
+GenericSiteA,Generic Employee 2,42312,0.324479167, , In Reader,0.709953704, , Out Reader, 00:00, 00:00, 00:00, 09:15, 46:00:00
+GenericSiteA,Generic Employee 2,42315, , No Punch, ,0.750856481, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 2,42316,0.447256944, , In Reader,0.835, , Out Reader, 00:00, 00:00, 00:00, 09:15, 55:15:00
+GenericSiteA,Generic Employee 2,42318,0.441782407, , In Reader,0.835428241, , Out Reader, 00:00, 00:00, 00:00, 09:15, 64:30:00
+GenericSiteA,Generic Employee 2,42319,0.448333333, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 2,42325,0.440752315, , In Reader,0.834722222, , Out Reader, 00:00, 00:00, 00:00, 09:15, 73:45:00
+GenericSiteA,Generic Employee 2,42327,0.402581019, , In Reader,0.797789352, , Out Reader, 00:00, 00:00, 00:00, 09:15, 83:00:00
+GenericSiteA,Generic Employee 2,42328,0.328402778, , In Reader,0.709675926, , Out Reader, 00:00, 00:00, 00:00, 09:00, 92:00:00
+GenericSiteA,Generic Employee 2,42329,0.315115741, , In Reader,0.709166667, , Out Reader, 00:00, 00:00, 00:00, 09:30, 101:30:00
+GenericSiteA,Generic Employee 2,42332,0.328425926, , In Reader,0.710231481, , Out Reader, 00:00, 00:00, 00:00, 09:00, 110:30:00
+GenericSiteA,Generic Employee 3,42302,0.361886574, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 3,42303,0.367685185, , In Reader,0.753946759, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 3,42304,0.363761574, , In Reader,0.755416667, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:15
+GenericSiteA,Generic Employee 3,42306,0.491678241, , In Reader,0.878298611, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:30:00
+GenericSiteA,Generic Employee 3,42307,0.487766204, , In Reader,0.876631944, , Out Reader, 00:00, 00:00, 00:00, 09:15, 36:45:00
+GenericSiteA,Generic Employee 3,42308,0.469791667, , In Reader,0.876770833, , Out Reader, 00:00, 00:00, 00:00, 09:45, 46:30:00
+GenericSiteA,Generic Employee 3,42311,0.319143519, , In Reader,0.710752315, , Out Reader, 00:00, 00:00, 00:00, 09:15, 55:45:00
+GenericSiteA,Generic Employee 3,42312,0.320648148, , In Reader,0.712430556, , Out Reader, 00:00, 00:00, 00:00, 09:15, 65:00:00
+GenericSiteA,Generic Employee 3,42313,0.32099537, , In Reader,0.710543981, , Out Reader, 00:00, 00:00, 00:00, 09:15, 74:15:00
+GenericSiteA,Generic Employee 3,42314,0.448298611, , In Reader,0.836793981, , Out Reader, 00:00, 00:00, 00:00, 09:15, 83:30:00
+GenericSiteA,Generic Employee 3,42318,0.448680556, , In Reader,0.835497685, , Out Reader, 00:00, 00:00, 00:00, 09:15, 92:45:00
+GenericSiteA,Generic Employee 3,42319,0.323368056, , In Reader,0.711134259, , Out Reader, 00:00, 00:00, 00:00, 09:15, 102:00:00
+GenericSiteA,Generic Employee 3,42320,0.322013889, , In Reader,0.710300926, , Out Reader, 00:00, 00:00, 00:00, 09:15, 111:15:00
+GenericSiteA,Generic Employee 3,42321,0.450740741, , In Reader,0.836018519, , Out Reader, 00:00, 00:00, 00:00, 09:00, 120:15:00
+GenericSiteA,Generic Employee 3,42323,0.323391204, , In Reader,0.710972222, , Out Reader, 00:00, 00:00, 00:00, 09:15, 129:30:00
+GenericSiteA,Generic Employee 3,42324,0.446840278, , In Reader,0.834837963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 138:45:00
+GenericSiteA,Generic Employee 3,42325,0.447303241, , In Reader,0.834965278, , Out Reader, 00:00, 00:00, 00:00, 09:15, 148:00:00
+GenericSiteA,Generic Employee 3,42326,0.332037037, , In Reader,0.711863426, , Out Reader, 00:00, 00:00, 00:00, 09:00, 157:00:00
+GenericSiteA,Generic Employee 3,42327,0.448344907, , In Reader,0.835034722, , Out Reader, 00:00, 00:00, 00:00, 09:15, 166:15:00
+GenericSiteA,Generic Employee 3,42331,0.326041667, , In Reader,0.71099537, , Out Reader, 00:00, 00:00, 00:00, 09:00, 175:15:00
+GenericSiteA,Generic Employee 3,42332,0.449375, , In Reader,0.835960648, , Out Reader, 00:00, 00:00, 00:00, 09:15, 184:30:00
+GenericSiteA,Generic Employee 4,42303,0.374583333, , In Reader,0.754074074, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 4,42304,0.37193287, , In Reader,0.785451389, , Out Reader, 00:00, 00:00, 00:00, 09:45, 18:45
+GenericSiteA,Generic Employee 4,42305,0.381122685, , In Reader,0.753796296, , Out Reader, 00:00, 00:00, 00:00, 08:45, 27:30:00
+GenericSiteA,Generic Employee 4,42306,0.376666667, , In Reader,0.76181713, , Out Reader, 00:00, 00:00, 00:00, 09:15, 36:45:00
+GenericSiteA,Generic Employee 4,42307,0.377939815, , In Reader,0.751770833, , Out Reader, 00:00, 00:00, 00:00, 08:45, 45:30:00
+GenericSiteA,Generic Employee 4,42310,0.373738426, , In Reader,0.71380787, , Out Reader, 00:00, 00:00, 00:00, 08:00, 53:30:00
+GenericSiteA,Generic Employee 4,42311,0.337581019, , In Reader,0.712928241, , Out Reader, 00:00, 00:00, 00:00, 08:45, 62:15:00
+GenericSiteA,Generic Employee 4,42313,0.335960648, , In Reader,0.711134259, , Out Reader, 00:00, 00:00, 00:00, 09:00, 71:15:00
+GenericSiteA,Generic Employee 4,42314,0.33369213, , In Reader,0.721689815, , Out Reader, 00:00, 00:00, 00:00, 09:15, 80:30:00
+GenericSiteA,Generic Employee 4,42317,0.333888889, , In Reader,0.711875, , Out Reader, 00:00, 00:00, 00:00, 09:00, 89:30:00
+GenericSiteA,Generic Employee 4,42318,0.330486111, , In Reader,0.785717593, , Out Reader, 00:00, 00:00, 00:00, 10:45, 100:15:00
+GenericSiteA,Generic Employee 4,42324, , No Punch, ,0.71037037, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 4,42325,0.336655093, , In Reader,0.711041667, , Out Reader, 00:00, 00:00, 00:00, 08:45, 109:00:00
+GenericSiteA,Generic Employee 4,42326,0.351597222, , In Reader,0.72318287, , Out Reader, 00:00, 00:00, 00:00, 08:45, 117:45:00
+GenericSiteA,Generic Employee 4,42327,0.376030093, , In Reader,0.728090278, , Out Reader, 00:00, 00:00, 00:00, 08:15, 126:00:00
+GenericSiteA,Generic Employee 4,42328,0.336006944, , In Reader,0.711944444, , Out Reader, 00:00, 00:00, 00:00, 09:00, 135:00:00
+GenericSiteA,Generic Employee 4,42331,0.338587963, , In Reader,0.713217593, , Out Reader, 00:00, 00:00, 00:00, 08:45, 143:45:00
+GenericSiteA,Generic Employee 4,42332,0.341412037, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 4,42333,0.338831019, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 5,42302,0.48400463, , In Reader,0.866967593, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 5,42303,0.445162037, , In Reader,0.839293981, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:15
+GenericSiteA,Generic Employee 5,42304,0.481608796, , In Reader,0.868946759, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:30:00
+GenericSiteA,Generic Employee 5,42305,0.361203704, , In Reader,0.75318287, , Out Reader, 00:00, 00:00, 00:00, 09:15, 36:45:00
+GenericSiteA,Generic Employee 5,42306,0.357037037, , In Reader,0.741990741, , Out Reader, 00:00, 00:00, 00:00, 09:00, 45:45:00
+GenericSiteA,Generic Employee 5,42308,0.409583333, , In Reader,0.739537037, , Out Reader, 00:00, 00:00, 00:00, 07:30, 53:15:00
+GenericSiteA,Generic Employee 5,42311,0.697777778, , In Reader,0.697800926, , Out Reader, 00:00, 00:00, 00:00, 00:00, 53:15:00
+GenericSiteA,Generic Employee 5,42313,0.315127315, , In Reader,0.692673611, , Out Reader, 00:00, 00:00, 00:00, 09:00, 62:15:00
+GenericSiteA,Generic Employee 5,42314,0.447106481, , In Reader,0.826550926, , Out Reader, 00:00, 00:00, 00:00, 09:00, 71:15:00
+GenericSiteA,Generic Employee 5,42315,0.413391204, , In Reader,0.786469907, , Out Reader, 00:00, 00:00, 00:00, 08:45, 80:00:00
+GenericSiteA,Generic Employee 5,42316, , No Punch, ,0.831099537, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 5,42317,0.448217593, , In Reader,0.829571759, , Out Reader, 00:00, 00:00, 00:00, 09:00, 89:00:00
+GenericSiteA,Generic Employee 5,42320,0.31662037, , In Reader,0.703923611, , Out Reader, 00:00, 00:00, 00:00, 09:00, 98:00:00
+GenericSiteA,Generic Employee 5,42321,0.456446759, , In Reader,0.828194444, , Out Reader, 00:00, 00:00, 00:00, 08:45, 106:45:00
+GenericSiteA,Generic Employee 5,42322,0.317407407, , In Reader,0.705219907, , Out Reader, 00:00, 00:00, 00:00, 09:00, 115:45:00
+GenericSiteA,Generic Employee 5,42323,0.434259259, , In Reader,0.830150463, , Out Reader, 00:00, 00:00, 00:00, 09:15, 125:00:00
+GenericSiteA,Generic Employee 5,42324,0.457175926, , In Reader,0.829895833, , Out Reader, 00:00, 00:00, 00:00, 08:45, 133:45:00
+GenericSiteA,Generic Employee 5,42327,0.442488426, , In Reader,0.834131944, , Out Reader, 00:00, 00:00, 00:00, 09:15, 143:00:00
+GenericSiteA,Generic Employee 5,42328,0.450219907, , In Reader,0.826446759, , Out Reader, 00:00, 00:00, 00:00, 09:00, 152:00:00
+GenericSiteA,Generic Employee 5,42329,0.315891204, , In Reader,0.706134259, , Out Reader, 00:00, 00:00, 00:00, 09:00, 161:00:00
+GenericSiteA,Generic Employee 5,42330,0.429189815, , In Reader,0.751689815, , Out Reader, 00:00, 00:00, 00:00, 07:45, 168:45:00
+GenericSiteA,Generic Employee 6,42303,0.372638889, , In Reader,0.752627315, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 6,42304,0.496875, , In Reader,0.87744213, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:00
+GenericSiteA,Generic Employee 6,42307,0.494652778, , In Reader,0.877314815, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:00:00
+GenericSiteA,Generic Employee 6,42309,0.362384259, , In Reader,0.751909722, , Out Reader, 00:00, 00:00, 00:00, 09:15, 36:15:00
+GenericSiteA,Generic Employee 6,42310,0.424988426, , In Reader,0.710532407, , Out Reader, 00:00, 00:00, 00:00, 06:45, 43:00:00
+GenericSiteA,Generic Employee 6,42311,0.452546296, , In Reader,0.837013889, , Out Reader, 00:00, 00:00, 00:00, 09:00, 52:00:00
+GenericSiteA,Generic Employee 6,42312,0.445578704, , In Reader,0.837094907, , Out Reader, 00:00, 00:00, 00:00, 09:15, 61:15:00
+GenericSiteA,Generic Employee 6,42313,0.440532407, , In Reader,0.835393519, , Out Reader, 00:00, 00:00, 00:00, 09:15, 70:30:00
+GenericSiteA,Generic Employee 6,42315,0.453402778, , In Reader,0.835694444, , Out Reader, 00:00, 00:00, 00:00, 09:00, 79:30:00
+GenericSiteA,Generic Employee 6,42317,0.32568287, , In Reader,0.71037037, , Out Reader, 00:00, 00:00, 00:00, 09:15, 88:45:00
+GenericSiteA,Generic Employee 6,42319,0.320532407, , In Reader,0.710613426, , Out Reader, 00:00, 00:00, 00:00, 09:15, 98:00:00
+GenericSiteA,Generic Employee 6,42320,0.438055556, , In Reader,0.834571759, , Out Reader, 00:00, 00:00, 00:00, 09:30, 107:30:00
+GenericSiteA,Generic Employee 6,42324, , No Punch, ,0.837465278, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 6,42329,0.451527778, , In Reader,0.838680556, , Out Reader, 00:00, 00:00, 00:00, 09:00, 116:30:00
+GenericSiteA,Generic Employee 6,42330,0.326053241, , In Reader,0.713472222, , Out Reader, 00:00, 00:00, 00:00, 09:00, 125:30:00
+GenericSiteA,Generic Employee 6,42332,0.372372685, , In Reader,0.756875, , Out Reader, 00:00, 00:00, 00:00, 09:00, 134:30:00
+GenericSiteA,Generic Employee 6,42333,0.331168981, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 7,42301,0.322766204, , In Reader,0.709444444, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 7,42302, , No Punch, ,0.391284722, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 7,42302, , No Punch, ,0.792314815, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 7,42304,0.447372685, , In Reader,0.750810185, , Out Reader, 00:00, 00:00, 00:00, 07:15, 16:30
+GenericSiteA,Generic Employee 7,42305,0.486053241, , In Reader,0.876701389, , Out Reader, 00:00, 00:00, 00:00, 09:15, 25:45:00
+GenericSiteA,Generic Employee 7,42306,0.366400463, , In Reader,0.751018519, , Out Reader, 00:00, 00:00, 00:00, 09:15, 35:00:00
+GenericSiteA,Generic Employee 7,42307,0.371539352, , In Reader,0.75130787, , Out Reader, 00:00, 00:00, 00:00, 09:00, 44:00:00
+GenericSiteA,Generic Employee 7,42308,0.359375, , In Reader,0.750960648, , Out Reader, 00:00, 00:00, 00:00, 09:15, 53:15:00
+GenericSiteA,Generic Employee 7,42310,0.440127315, , In Reader,0.83431713, , Out Reader, 00:00, 00:00, 00:00, 09:30, 62:45:00
+GenericSiteA,Generic Employee 7,42312,0.444976852, , In Reader,0.835162037, , Out Reader, 00:00, 00:00, 00:00, 09:15, 72:00:00
+GenericSiteA,Generic Employee 7,42314,0.319270833, , In Reader,0.709618056, , Out Reader, 00:00, 00:00, 00:00, 09:15, 81:15:00
+GenericSiteA,Generic Employee 7,42315,0.394513889, , In Reader,0.622465278, , Out Reader, 00:00, 00:00, 00:00, 05:15, 86:30:00
+GenericSiteA,Generic Employee 7,42316,0.353449074, , In Reader,0.750486111, , Out Reader, 00:00, 00:00, 00:00, 09:30, 96:00:00
+GenericSiteA,Generic Employee 7,42317, , No Punch, ,0.708993056, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 7,42322,0.398240741, , In Reader,0.793148148, , Out Reader, 00:00, 00:00, 00:00, 09:30, 105:30:00
+GenericSiteA,Generic Employee 7,42324,0.44630787, , In Reader,0.834756944, , Out Reader, 00:00, 00:00, 00:00, 09:15, 114:45:00
+GenericSiteA,Generic Employee 7,42325,0.327384259, , In Reader,0.709236111, , Out Reader, 00:00, 00:00, 00:00, 09:00, 123:45:00
+GenericSiteA,Generic Employee 7,42328,0.32900463, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 7,42329,0.440150463, , In Reader,0.834467593, , Out Reader, 00:00, 00:00, 00:00, 09:30, 133:15:00
+GenericSiteA,Generic Employee 7,42330,0.435821759, , In Reader,0.834641204, , Out Reader, 00:00, 00:00, 00:00, 09:30, 142:45:00
+GenericSiteA,Generic Employee 7,42333,0.442141204, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42301,0.333657407, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42302,0.372592593, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42303,0.457268519, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42306, , No Punch, ,0.876226852, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42307, , No Punch, ,0.751585648, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42308, , No Punch, ,0.876111111, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42309,0.371446759, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42310,0.374270833, , In Reader,0.708935185, , Out Reader, 00:00, 00:00, 00:00, 08:00, 08:00
+GenericSiteA,Generic Employee 8,42314,0.325821759, , In Reader,0.70900463, , Out Reader, 00:00, 00:00, 00:00, 09:00, 17:00
+GenericSiteA,Generic Employee 8,42315, , No Punch, ,0.711759259, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42316,0.456747685, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42318,0.330532407, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42320,0.456122685, , In Reader,0.834618056, , Out Reader, 00:00, 00:00, 00:00, 09:00, 26:00:00
+GenericSiteA,Generic Employee 8,42321,0.456122685, , In Reader,0.835636574, , Out Reader, 00:00, 00:00, 00:00, 09:00, 35:00:00
+GenericSiteA,Generic Employee 8,42324,0.374212963, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42325,0.455439815, , In Reader,0.834895833, , Out Reader, 00:00, 00:00, 00:00, 09:00, 44:00:00
+GenericSiteA,Generic Employee 8,42326,0.457233796, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42328,0.330277778, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 8,42332,0.325925926, , In Reader,0.710127315, , Out Reader, 00:00, 00:00, 00:00, 09:00, 53:00:00
+GenericSiteA,Generic Employee 9,42301,0.323078704, , In Reader,0.711331019, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 9,42303,0.459247685, , In Reader,0.834699074, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:15
+GenericSiteA,Generic Employee 9,42304,0.496759259, , In Reader,0.885520833, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:30:00
+GenericSiteA,Generic Employee 9,42305,0.371875, , In Reader,0.751435185, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:30:00
+GenericSiteA,Generic Employee 9,42306,0.38255787, , In Reader,0.754733796, , Out Reader, 00:00, 00:00, 00:00, 08:45, 45:15:00
+GenericSiteA,Generic Employee 9,42307,0.374363426, , In Reader,0.756493056, , Out Reader, 00:00, 00:00, 00:00, 09:00, 54:15:00
+GenericSiteA,Generic Employee 9,42317,0.327233796, , In Reader,0.719363426, , Out Reader, 00:00, 00:00, 00:00, 09:15, 63:30:00
+GenericSiteA,Generic Employee 9,42318,0.336458333, , In Reader,0.710717593, , Out Reader, 00:00, 00:00, 00:00, 08:45, 72:15:00
+GenericSiteA,Generic Employee 9,42319,0.320648148, , In Reader,0.712766204, , Out Reader, 00:00, 00:00, 00:00, 09:15, 81:30:00
+GenericSiteA,Generic Employee 9,42320,0.451469907, , In Reader,0.847847222, , Out Reader, 00:00, 00:00, 00:00, 09:15, 90:45:00
+GenericSiteA,Generic Employee 9,42321, , No Punch, ,0.84, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 9,42325,0.322465278, , In Reader,0.716319444, , Out Reader, 00:00, 00:00, 00:00, 09:15, 100:00:00
+GenericSiteA,Generic Employee 9,42326, , No Punch, ,0.712384259, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 9,42327,0.342743056, , In Reader,0.721018519, , Out Reader, 00:00, 00:00, 00:00, 09:00, 109:00:00
+GenericSiteA,Generic Employee 9,42329,0.3153125, , In Reader,0.709664352, , Out Reader, 00:00, 00:00, 00:00, 09:15, 118:15:00
+GenericSiteA,Generic Employee 9,42330,0.318240741, , In Reader,0.710578704, , Out Reader, 00:00, 00:00, 00:00, 09:15, 127:30:00
+GenericSiteA,Generic Employee 9,42331,0.319270833, , In Reader,0.71255787, , Out Reader, 00:00, 00:00, 00:00, 09:15, 136:45:00
+GenericSiteA,Generic Employee 9,42332,0.318900463, , In Reader,0.724861111, , Out Reader, 00:00, 00:00, 00:00, 09:30, 146:15:00
+GenericSiteA,Generic Employee 10,42303,0.483460648, , In Reader,0.877407407, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 10,42304,0.483287037, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 10,42312,0.446145833, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 10,42313,0.443425926, , In Reader,0.836122685, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:30
+GenericSiteA,Generic Employee 10,42314,0.447303241, , In Reader,0.836689815, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:45:00
+GenericSiteA,Generic Employee 10,42316,0.316655093, , In Reader,0.71318287, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:00:00
+GenericSiteA,Generic Employee 10,42317,0.443912037, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 10,42317,0.328368056, , In Reader,0.711909722, , Out Reader, 00:00, 00:00, 00:00, 09:00, 46:00:00
+GenericSiteA,Generic Employee 10,42319,0.441712963, , In Reader,0.837233796, , Out Reader, 00:00, 00:00, 00:00, 09:15, 55:15:00
+GenericSiteA,Generic Employee 10,42321, , No Punch, ,0.710023148, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 10,42323,0.323530093, , In Reader,0.710914352, , Out Reader, 00:00, 00:00, 00:00, 09:15, 64:30:00
+GenericSiteA,Generic Employee 10,42324,0.454224537, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 10,42324,0.405451389, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 10,42326,0.453645833, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 10,42329,0.711365741, , In Reader,0.711435185, , Out Reader, 00:00, 00:00, 00:00, 00:00, 64:30:00
+GenericSiteA,Generic Employee 10,42330,0.364861111, , In Reader,0.752418981, , Out Reader, 00:00, 00:00, 00:00, 09:15, 73:45:00
+GenericSiteA,Generic Employee 10,42331,0.376354167, , In Reader,0.753946759, , Out Reader, 00:00, 00:00, 00:00, 09:00, 82:45:00
+GenericSiteA,Generic Employee 10,42332,0.445358796, , In Reader,0.837361111, , Out Reader, 00:00, 00:00, 00:00, 09:15, 92:00:00
+GenericSiteA,Generic Employee 10,42333,0.317488426, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 11,42301,0.451712963, , In Reader,0.843726852, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 11,42302,0.498518519, , In Reader,0.880347222, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:00
+GenericSiteA,Generic Employee 11,42303,0.495266204, , In Reader,0.880625, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:00:00
+GenericSiteA,Generic Employee 11,42305, , No Punch, ,0.494386574, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 11,42305,0.494479167, , In Reader,0.879293981, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:00:00
+GenericSiteA,Generic Employee 11,42306,0.491712963, , In Reader,0.879606481, , Out Reader, 00:00, 00:00, 00:00, 09:15, 45:15:00
+GenericSiteA,Generic Employee 11,42308,0.356863426, , In Reader,0.750428241, , Out Reader, 00:00, 00:00, 00:00, 09:30, 54:45:00
+GenericSiteA,Generic Employee 11,42309,0.36244213, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 11,42310,0.363912037, , In Reader,0.710636574, , Out Reader, 00:00, 00:00, 00:00, 08:15, 63:00:00
+GenericSiteA,Generic Employee 11,42312,0.447835648, , In Reader,0.837349537, , Out Reader, 00:00, 00:00, 00:00, 09:15, 72:15:00
+GenericSiteA,Generic Employee 11,42313,0.322326389, , In Reader,0.710972222, , Out Reader, 00:00, 00:00, 00:00, 09:15, 81:30:00
+GenericSiteA,Generic Employee 11,42315,0.455706019, , In Reader,0.836284722, , Out Reader, 00:00, 00:00, 00:00, 09:00, 90:30:00
+GenericSiteA,Generic Employee 11,42316,0.456793981, , In Reader,0.838425926, , Out Reader, 00:00, 00:00, 00:00, 09:00, 99:30:00
+GenericSiteA,Generic Employee 11,42317,0.452592593, , In Reader,0.83712963, , Out Reader, 00:00, 00:00, 00:00, 09:00, 108:30:00
+GenericSiteA,Generic Employee 11,42318,0.460416667, , In Reader,0.837222222, , Out Reader, 00:00, 00:00, 00:00, 09:00, 117:30:00
+GenericSiteA,Generic Employee 11,42319,0.468715278, , In Reader,0.837488426, , Out Reader, 00:00, 00:00, 00:00, 08:45, 126:15:00
+GenericSiteA,Generic Employee 11,42322,0.45212963, , In Reader,0.839270833, , Out Reader, 00:00, 00:00, 00:00, 09:00, 135:15:00
+GenericSiteA,Generic Employee 11,42323,0.453541667, , In Reader,0.839664352, , Out Reader, 00:00, 00:00, 00:00, 09:00, 144:15:00
+GenericSiteA,Generic Employee 11,42328,0.457800926, , In Reader,0.836157407, , Out Reader, 00:00, 00:00, 00:00, 09:00, 153:15:00
+GenericSiteA,Generic Employee 11,42329,0.455428241, , In Reader,0.83787037, , Out Reader, 00:00, 00:00, 00:00, 09:00, 162:15:00
+GenericSiteA,Generic Employee 11,42330,0.458240741, , In Reader,0.836724537, , Out Reader, 00:00, 00:00, 00:00, 09:00, 171:15:00
+GenericSiteA,Generic Employee 11,42331,0.448680556, , In Reader,0.841643519, , Out Reader, 00:00, 00:00, 00:00, 09:15, 180:30:00
+GenericSiteA,Generic Employee 11,42332,0.44693287, , In Reader,0.838506944, , Out Reader, 00:00, 00:00, 00:00, 09:15, 189:45:00
+GenericSiteA,Generic Employee 12,42301,0.33025463, , In Reader,0.711122685, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 12,42302, , No Punch, ,0.752974537, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 12,42304,0.372858796, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 12,42304,0.751331019, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 12,42304,0.489178241, , In Reader,0.87625, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:15
+GenericSiteA,Generic Employee 12,42306, , No Punch, ,0.876354167, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 12,42307,0.364872685, , In Reader,0.751261574, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:30:00
+GenericSiteA,Generic Employee 12,42310,0.356921296, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 12,42310,0.709375, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 12,42312,0.440787037, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 12,42312,0.711018519, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 12,42312,0.451689815, , In Reader,0.834224537, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:30:00
+GenericSiteA,Generic Employee 12,42317,0.430671296, , In Reader,0.83443287, , Out Reader, 00:00, 00:00, 00:00, 09:30, 46:00:00
+GenericSiteA,Generic Employee 12,42318,0.325740741, , In Reader,0.710752315, , Out Reader, 00:00, 00:00, 00:00, 09:00, 55:00:00
+GenericSiteA,Generic Employee 12,42320,0.330543981, , In Reader,0.709641204, , Out Reader, 00:00, 00:00, 00:00, 09:00, 64:00:00
+GenericSiteA,Generic Employee 12,42321,0.326087963, , In Reader,0.709664352, , Out Reader, 00:00, 00:00, 00:00, 09:00, 73:00:00
+GenericSiteA,Generic Employee 13,42301,0.407777778, , In Reader,0.793287037, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 13,42302,0.465034722, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 13,42305,0.364930556, , In Reader,0.754293981, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:30
+GenericSiteA,Generic Employee 13,42306, , No Punch, ,0.752650463, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 13,42308,0.366550926, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 13,42313,0.332337963, , In Reader,0.711458333, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:30:00
+GenericSiteA,Generic Employee 13,42314,0.455393519, , In Reader,0.836030093, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:30:00
+GenericSiteA,Generic Employee 13,42316,0.454699074, , In Reader,0.793506944, , Out Reader, 00:00, 00:00, 00:00, 08:00, 44:30:00
+GenericSiteA,Generic Employee 13,42317,0.373784722, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 14,42301,0.443726852, , In Reader,0.834652778, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 14,42302,0.477847222, , In Reader,0.877349537, , Out Reader, 00:00, 00:00, 00:00, 09:30, 18:45
+GenericSiteA,Generic Employee 14,42303,0.481909722, , In Reader,0.877615741, , Out Reader, 00:00, 00:00, 00:00, 09:30, 28:15:00
+GenericSiteA,Generic Employee 14,42306,0.359953704, , In Reader,0.751527778, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:30:00
+GenericSiteA,Generic Employee 14,42307,0.476793981, , In Reader,0.876342593, , Out Reader, 00:00, 00:00, 00:00, 09:30, 47:00:00
+GenericSiteA,Generic Employee 14,42308,0.436944444, , In Reader,0.835358796, , Out Reader, 00:00, 00:00, 00:00, 09:30, 56:30:00
+GenericSiteA,Generic Employee 14,42309,0.493460648, , In Reader,0.876851852, , Out Reader, 00:00, 00:00, 00:00, 09:00, 65:30:00
+GenericSiteA,Generic Employee 14,42310,0.356631944, , In Reader,0.709178241, , Out Reader, 00:00, 00:00, 00:00, 08:30, 74:00:00
+GenericSiteA,Generic Employee 14,42312,0.318645833, , In Reader,0.709039352, , Out Reader, 00:00, 00:00, 00:00, 09:15, 83:15:00
+GenericSiteA,Generic Employee 14,42316,0.435856481, , In Reader,0.8365625, , Out Reader, 00:00, 00:00, 00:00, 09:30, 92:45:00
+GenericSiteA,Generic Employee 14,42317,0.326134259, , In Reader,0.709710648, , Out Reader, 00:00, 00:00, 00:00, 09:00, 101:45:00
+GenericSiteA,Generic Employee 14,42318,0.403240741, , In Reader,0.795011574, , Out Reader, 00:00, 00:00, 00:00, 09:15, 111:00:00
+GenericSiteA,Generic Employee 14,42321,0.439305556, , In Reader,0.835590278, , Out Reader, 00:00, 00:00, 00:00, 09:30, 120:30:00
+GenericSiteA,Generic Employee 14,42322,0.318159722, , In Reader,0.710856481, , Out Reader, 00:00, 00:00, 00:00, 09:15, 129:45:00
+GenericSiteA,Generic Employee 14,42323,0.442673611, , In Reader,0.838831019, , Out Reader, 00:00, 00:00, 00:00, 09:15, 139:00:00
+GenericSiteA,Generic Employee 14,42324,0.318576389, , In Reader,0.713854167, , Out Reader, 00:00, 00:00, 00:00, 09:15, 148:15:00
+GenericSiteA,Generic Employee 14,42325,0.449537037, , In Reader,0.834930556, , Out Reader, 00:00, 00:00, 00:00, 09:15, 157:30:00
+GenericSiteA,Generic Employee 14,42326,0.359814815, , In Reader,0.751782407, , Out Reader, 00:00, 00:00, 00:00, 09:15, 166:45:00
+GenericSiteA,Generic Employee 14,42327,0.318298611, , In Reader,0.710416667, , Out Reader, 00:00, 00:00, 00:00, 09:15, 176:00:00
+GenericSiteA,Generic Employee 14,42330,0.365196759, , In Reader,0.752453704, , Out Reader, 00:00, 00:00, 00:00, 09:15, 185:15:00
+GenericSiteA,Generic Employee 14,42332,0.447881944, , In Reader,0.836412037, , Out Reader, 00:00, 00:00, 00:00, 09:15, 194:30:00
+GenericSiteA,Generic Employee 14,42333,0.316458333, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42303,0.539953704, , In Reader,0.877569444, , Out Reader, 00:00, 00:00, 00:00, 08:00, 08:00
+GenericSiteA,Generic Employee 15,42304,0.453530093, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42314, , No Punch, ,0.834560185, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42317,0.449143519, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42318, , No Punch, ,0.711956019, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42322, , No Punch, ,0.836493056, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42323, , No Punch, ,0.752083333, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42325,0.321724537, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42328, , No Punch, ,0.8353125, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 15,42330, , No Punch, ,0.83474537, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 16,42303,0.49619213, , In Reader,0.8775, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 16,42304, , No Punch, ,0.879050926, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 16,42306,0.374097222, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 16,42308,0.488055556, , In Reader,0.87662037, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:15
+GenericSiteA,Generic Employee 16,42309,0.478449074, , In Reader,0.877581019, , Out Reader, 00:00, 00:00, 00:00, 09:30, 27:45:00
+GenericSiteA,Generic Employee 16,42310,0.4115625, , In Reader,0.751412037, , Out Reader, 00:00, 00:00, 00:00, 08:00, 35:45:00
+GenericSiteA,Generic Employee 16,42311,0.3728125, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 16,42320,0.448854167, , In Reader,0.834652778, , Out Reader, 00:00, 00:00, 00:00, 09:15, 45:00:00
+GenericSiteA,Generic Employee 16,42321,0.329953704, , In Reader,0.709733796, , Out Reader, 00:00, 00:00, 00:00, 09:00, 54:00:00
+GenericSiteA,Generic Employee 16,42322,0.368090278, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 16,42324,0.453657407, , In Reader,0.834791667, , Out Reader, 00:00, 00:00, 00:00, 09:00, 63:00:00
+GenericSiteA,Generic Employee 16,42325,0.453738426, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 16,42325,0.355706019, , In Reader,0.709675926, , Out Reader, 00:00, 00:00, 00:00, 08:30, 71:30:00
+GenericSiteA,Generic Employee 16,42327,0.449849537, , In Reader,0.834930556, , Out Reader, 00:00, 00:00, 00:00, 09:15, 80:45:00
+GenericSiteA,Generic Employee 16,42328,0.454837963, , In Reader,0.835671296, , Out Reader, 00:00, 00:00, 00:00, 09:00, 89:45:00
+GenericSiteA,Generic Employee 16,42331,0.323842593, , In Reader,0.710752315, , Out Reader, 00:00, 00:00, 00:00, 09:15, 99:00:00
+GenericSiteA,Generic Employee 17,42303, , No Punch, ,0.75193287, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 17,42304,0.371990741, , In Reader,0.7540625, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 17,42305,0.37005787, , In Reader,0.754189815, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:00
+GenericSiteA,Generic Employee 17,42306, , No Punch, ,0.755092593, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 17,42307,0.370868056, , In Reader,0.756527778, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:00:00
+GenericSiteA,Generic Employee 17,42310,0.367025463, , In Reader,0.710671296, , Out Reader, 00:00, 00:00, 00:00, 08:15, 35:15:00
+GenericSiteA,Generic Employee 17,42311,0.326145833, , In Reader,0.709884259, , Out Reader, 00:00, 00:00, 00:00, 09:00, 44:15:00
+GenericSiteA,Generic Employee 17,42312,0.324537037, , In Reader,0.710810185, , Out Reader, 00:00, 00:00, 00:00, 09:15, 53:30:00
+GenericSiteA,Generic Employee 17,42313,0.332407407, , In Reader,0.7109375, , Out Reader, 00:00, 00:00, 00:00, 09:00, 62:30:00
+GenericSiteA,Generic Employee 17,42314,0.33375, , In Reader,0.711886574, , Out Reader, 00:00, 00:00, 00:00, 09:00, 71:30:00
+GenericSiteA,Generic Employee 17,42317,0.333946759, , In Reader,0.712303241, , Out Reader, 00:00, 00:00, 00:00, 09:00, 80:30:00
+GenericSiteA,Generic Employee 17,42318, , No Punch, ,0.710925926, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 17,42319,0.328611111, , In Reader,0.716493056, , Out Reader, 00:00, 00:00, 00:00, 09:00, 89:30:00
+GenericSiteA,Generic Employee 17,42320,0.330069444, , In Reader,0.711388889, , Out Reader, 00:00, 00:00, 00:00, 09:00, 98:30:00
+GenericSiteA,Generic Employee 17,42321,0.331527778, , In Reader,0.708657407, , Out Reader, 00:00, 00:00, 00:00, 09:00, 107:30:00
+GenericSiteA,Generic Employee 17,42324,0.335277778, , In Reader,0.59099537, , Out Reader, 00:00, 00:00, 00:00, 06:00, 113:30:00
+GenericSiteA,Generic Employee 17,42325,0.328298611, , In Reader,0.711122685, , Out Reader, 00:00, 00:00, 00:00, 09:00, 122:30:00
+GenericSiteA,Generic Employee 17,42326,0.343136574, , In Reader,0.723217593, , Out Reader, 00:00, 00:00, 00:00, 09:00, 131:30:00
+GenericSiteA,Generic Employee 17,42327,0.323425926, , In Reader,0.711111111, , Out Reader, 00:00, 00:00, 00:00, 09:15, 140:45:00
+GenericSiteA,Generic Employee 17,42328,0.323773148, , In Reader,0.714872685, , Out Reader, 00:00, 00:00, 00:00, 09:15, 150:00:00
+GenericSiteA,Generic Employee 17,42331,0.331076389, , In Reader,0.713310185, , Out Reader, 00:00, 00:00, 00:00, 09:00, 159:00:00
+GenericSiteA,Generic Employee 17,42332,0.331111111, , In Reader,0.71119213, , Out Reader, 00:00, 00:00, 00:00, 09:00, 168:00:00
+GenericSiteA,Generic Employee 17,42333,0.333229167, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 18,42313,0.448356481, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 18,42313,0.323171296, , In Reader,0.710462963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 18,42315,0.325196759, , In Reader,0.711643519, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:30
+GenericSiteA,Generic Employee 18,42320,0.321747685, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 18,42321,0.321145833, , In Reader,0.709780093, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:45:00
+GenericSiteA,Generic Employee 18,42322,0.320601852, , In Reader,0.711215278, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:00:00
+GenericSiteA,Generic Employee 18,42323, , No Punch, ,0.755497685, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 18,42325,0.324606481, , In Reader,0.710949074, , Out Reader, 00:00, 00:00, 00:00, 09:15, 46:15:00
+GenericSiteA,Generic Employee 18,42326, , No Punch, ,0.714282407, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 18,42327,0.331759259, , In Reader,0.711157407, , Out Reader, 00:00, 00:00, 00:00, 09:00, 55:15:00
+GenericSiteA,Generic Employee 18,42328,0.324178241, , In Reader,0.711319444, , Out Reader, 00:00, 00:00, 00:00, 09:15, 64:30:00
+GenericSiteA,Generic Employee 18,42331,0.448530093, , In Reader,0.835428241, , Out Reader, 00:00, 00:00, 00:00, 09:15, 73:45:00
+GenericSiteA,Generic Employee 18,42332,0.441666667, , In Reader,0.837013889, , Out Reader, 00:00, 00:00, 00:00, 09:15, 83:00:00
+GenericSiteA,Generic Employee 19,42303,0.498159722, , In Reader,0.879212963, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 19,42304,0.414247685, , In Reader,0.794467593, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:00
+GenericSiteA,Generic Employee 19,42306,0.410358796, , In Reader,0.798078704, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:00:00
+GenericSiteA,Generic Employee 19,42307,0.372164352, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 19,42310,0.450925926, , In Reader,0.836284722, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:00:00
+GenericSiteA,Generic Employee 19,42311,0.45380787, , In Reader,0.836979167, , Out Reader, 00:00, 00:00, 00:00, 09:00, 45:00:00
+GenericSiteA,Generic Employee 19,42312,0.458206019, , In Reader,0.836006944, , Out Reader, 00:00, 00:00, 00:00, 09:00, 54:00:00
+GenericSiteA,Generic Employee 19,42313,0.453622685, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 19,42317,0.330486111, , In Reader,0.709490741, , Out Reader, 00:00, 00:00, 00:00, 09:00, 63:00:00
+GenericSiteA,Generic Employee 19,42318,0.451273148, , In Reader,0.835636574, , Out Reader, 00:00, 00:00, 00:00, 09:00, 72:00:00
+GenericSiteA,Generic Employee 19,42319,0.457881944, , In Reader,0.836990741, , Out Reader, 00:00, 00:00, 00:00, 09:00, 81:00:00
+GenericSiteA,Generic Employee 19,42320,0.445590278, , In Reader,0.833668981, , Out Reader, 00:00, 00:00, 00:00, 09:15, 90:15:00
+GenericSiteA,Generic Employee 19,42323,0.446030093, , In Reader,0.839247685, , Out Reader, 00:00, 00:00, 00:00, 09:15, 99:30:00
+GenericSiteA,Generic Employee 19,42324, , No Punch, ,0.836006944, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 19,42325,0.452581019, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 19,42326,0.453611111, , In Reader,0.837523148, , Out Reader, 00:00, 00:00, 00:00, 09:00, 108:30:00
+GenericSiteA,Generic Employee 19,42327,0.331701389, , In Reader,0.713101852, , Out Reader, 00:00, 00:00, 00:00, 09:00, 117:30:00
+GenericSiteA,Generic Employee 19,42331,0.454189815, , In Reader,0.836898148, , Out Reader, 00:00, 00:00, 00:00, 09:00, 126:30:00
+GenericSiteA,Generic Employee 19,42332,0.446527778, , In Reader,0.837152778, , Out Reader, 00:00, 00:00, 00:00, 09:15, 135:45:00
+GenericSiteA,Generic Employee 19,42333,0.411585648, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 20,42302, , No Punch, ,0.753703704, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 20,42302, , No Punch, ,0.410740741, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 20,42303,0.370810185, , In Reader,0.751886574, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 20,42304,0.369583333, , In Reader,0.753958333, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:00
+GenericSiteA,Generic Employee 20,42305,0.481840278, , In Reader,0.878831019, , Out Reader, 00:00, 00:00, 00:00, 09:30, 27:30:00
+GenericSiteA,Generic Employee 20,42312,0.438668981, , In Reader,0.836990741, , Out Reader, 00:00, 00:00, 00:00, 09:30, 37:00:00
+GenericSiteA,Generic Employee 20,42314,0.450127315, , In Reader,0.836736111, , Out Reader, 00:00, 00:00, 00:00, 09:15, 46:15:00
+GenericSiteA,Generic Employee 20,42315,0.439247685, , In Reader,0.835648148, , Out Reader, 00:00, 00:00, 00:00, 09:30, 55:45:00
+GenericSiteA,Generic Employee 20,42316,0.406956019, , In Reader,0.794560185, , Out Reader, 00:00, 00:00, 00:00, 09:15, 65:00:00
+GenericSiteA,Generic Employee 20,42318,0.320787037, , In Reader,0.71087963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 74:15:00
+GenericSiteA,Generic Employee 20,42319,0.320393519, , In Reader,0.716446759, , Out Reader, 00:00, 00:00, 00:00, 09:15, 83:30:00
+GenericSiteA,Generic Employee 20,42320,0.447581019, , In Reader,0.836921296, , Out Reader, 00:00, 00:00, 00:00, 09:15, 92:45:00
+GenericSiteA,Generic Employee 20,42322,0.448287037, , In Reader,0.835277778, , Out Reader, 00:00, 00:00, 00:00, 09:15, 102:00:00
+GenericSiteA,Generic Employee 20,42323,0.32494213, , In Reader,0.711712963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 111:15:00
+GenericSiteA,Generic Employee 20,42324,0.318703704, , In Reader,0.713819444, , Out Reader, 00:00, 00:00, 00:00, 09:15, 120:30:00
+GenericSiteA,Generic Employee 20,42325,0.321643519, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 20,42329,0.455324074, , In Reader,0.838587963, , Out Reader, 00:00, 00:00, 00:00, 09:00, 129:30:00
+GenericSiteA,Generic Employee 20,42330,0.524502315, , In Reader,0.840023148, , Out Reader, 00:00, 00:00, 00:00, 07:15, 136:45:00
+GenericSiteA,Generic Employee 20,42331,0.448634259, , In Reader,0.841469907, , Out Reader, 00:00, 00:00, 00:00, 09:15, 146:00:00
+GenericSiteA,Generic Employee 20,42332,0.446643519, , In Reader,0.837118056, , Out Reader, 00:00, 00:00, 00:00, 09:15, 155:15:00
+GenericSiteA,Generic Employee 21,42301,0.323321759, , In Reader,0.711909722, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 21,42302,0.36212963, , In Reader,0.752650463, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:30
+GenericSiteA,Generic Employee 21,42303,0.489861111, , In Reader,0.879108796, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:45:00
+GenericSiteA,Generic Employee 21,42306,0.482638889, , In Reader,0.880347222, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:00:00
+GenericSiteA,Generic Employee 21,42307,0.372222222, , In Reader,0.759606481, , Out Reader, 00:00, 00:00, 00:00, 09:00, 46:00:00
+GenericSiteA,Generic Employee 21,42308,0.363680556, , In Reader,0.753344907, , Out Reader, 00:00, 00:00, 00:00, 09:15, 55:15:00
+GenericSiteA,Generic Employee 21,42310,0.360648148, , In Reader,0.709953704, , Out Reader, 00:00, 00:00, 00:00, 08:15, 63:30:00
+GenericSiteA,Generic Employee 21,42311,0.321122685, , In Reader,0.709976852, , Out Reader, 00:00, 00:00, 00:00, 09:15, 72:45:00
+GenericSiteA,Generic Employee 21,42312,0.326145833, , In Reader,0.709675926, , Out Reader, 00:00, 00:00, 00:00, 09:00, 81:45:00
+GenericSiteA,Generic Employee 21,42313,0.32849537, , In Reader,0.710902778, , Out Reader, 00:00, 00:00, 00:00, 09:00, 90:45:00
+GenericSiteA,Generic Employee 21,42314,0.319224537, , In Reader,0.71181713, , Out Reader, 00:00, 00:00, 00:00, 09:15, 100:00:00
+GenericSiteA,Generic Employee 21,42317,0.437893519, , In Reader,0.837071759, , Out Reader, 00:00, 00:00, 00:00, 09:30, 109:30:00
+GenericSiteA,Generic Employee 21,42318,0.459872685, , In Reader,0.836539352, , Out Reader, 00:00, 00:00, 00:00, 09:00, 118:30:00
+GenericSiteA,Generic Employee 21,42320,0.324108796, , In Reader,0.713969907, , Out Reader, 00:00, 00:00, 00:00, 09:15, 127:45:00
+GenericSiteA,Generic Employee 21,42321,0.444201389, , In Reader,0.837858796, , Out Reader, 00:00, 00:00, 00:00, 09:15, 137:00:00
+GenericSiteA,Generic Employee 21,42323,0.325972222, , In Reader,0.711574074, , Out Reader, 00:00, 00:00, 00:00, 09:00, 146:00:00
+GenericSiteA,Generic Employee 21,42324,0.443541667, , In Reader,0.840381944, , Out Reader, 00:00, 00:00, 00:00, 09:15, 155:15:00
+GenericSiteA,Generic Employee 21,42325,0.443020833, , In Reader,0.839513889, , Out Reader, 00:00, 00:00, 00:00, 09:15, 164:30:00
+GenericSiteA,Generic Employee 21,42326,0.454340278, , In Reader,0.840381944, , Out Reader, 00:00, 00:00, 00:00, 09:00, 173:30:00
+GenericSiteA,Generic Employee 21,42327,0.325, , In Reader,0.712268519, , Out Reader, 00:00, 00:00, 00:00, 09:15, 182:45:00
+GenericSiteA,Generic Employee 21,42330,0.323993056, , In Reader,0.721481481, , Out Reader, 00:00, 00:00, 00:00, 09:30, 192:15:00
+GenericSiteA,Generic Employee 21,42331,0.322141204, , In Reader,0.713680556, , Out Reader, 00:00, 00:00, 00:00, 09:15, 201:30:00
+GenericSiteA,Generic Employee 21,42332,0.330949074, , In Reader,0.711238426, , Out Reader, 00:00, 00:00, 00:00, 09:00, 210:30:00
+GenericSiteA,Generic Employee 21,42333,0.32056713, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 22,42302,0.362071759, , In Reader,0.754166667, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 22,42305,0.363136574, , In Reader,0.757615741, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:30
+GenericSiteA,Generic Employee 22,42306,0.354768519, , In Reader,0.752523148, , Out Reader, 00:00, 00:00, 00:00, 09:30, 28:00:00
+GenericSiteA,Generic Employee 22,42307,0.47287037, , In Reader,0.877453704, , Out Reader, 00:00, 00:00, 00:00, 09:30, 37:30:00
+GenericSiteA,Generic Employee 22,42308,0.492488426, , In Reader,0.876736111, , Out Reader, 00:00, 00:00, 00:00, 09:00, 46:30:00
+GenericSiteA,Generic Employee 22,42310,0.437430556, , In Reader,0.836678241, , Out Reader, 00:00, 00:00, 00:00, 09:30, 56:00:00
+GenericSiteA,Generic Employee 22,42311,0.321608796, , In Reader,0.710231481, , Out Reader, 00:00, 00:00, 00:00, 09:15, 65:15:00
+GenericSiteA,Generic Employee 22,42314,0.385613426, , In Reader,0.793657407, , Out Reader, 00:00, 00:00, 00:00, 09:45, 75:00:00
+GenericSiteA,Generic Employee 22,42315,0.325081019, , In Reader,0.710231481, , Out Reader, 00:00, 00:00, 00:00, 09:15, 84:15:00
+GenericSiteA,Generic Employee 22,42316,0.438819444, , In Reader,0.835902778, , Out Reader, 00:00, 00:00, 00:00, 09:30, 93:45:00
+GenericSiteA,Generic Employee 23,42307,0.368946759, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 23,42308,0.485381944, , In Reader,0.876296296, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 23,42309,0.495231481, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 23,42309,0.357847222, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 23,42311,0.416516204, , In Reader,0.794664352, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:15
+GenericSiteA,Generic Employee 23,42313,0.317141204, , In Reader,0.754050926, , Out Reader, 00:00, 00:00, 00:00, 10:15, 28:30:00
+GenericSiteA,Generic Employee 23,42315,0.325138889, , In Reader,0.711597222, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:45:00
+GenericSiteA,Generic Employee 23,42316,0.420046296, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 23,42327,0.32119213, , In Reader,0.713136574, , Out Reader, 00:00, 00:00, 00:00, 09:15, 47:00:00
+GenericSiteA,Generic Employee 23,42329,0.322094907, , In Reader,0.711469907, , Out Reader, 00:00, 00:00, 00:00, 09:15, 56:15:00
+GenericSiteA,Generic Employee 23,42331,0.390150463, , In Reader,0.754039352, , Out Reader, 00:00, 00:00, 00:00, 08:30, 64:45:00
+GenericSiteA,Generic Employee 24,42301,0.322916667, , In Reader,0.722210648, , Out Reader, 00:00, 00:00, 00:00, 09:30, 09:30
+GenericSiteA,Generic Employee 24,42303,0.365868056, , In Reader,0.752395833, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:45
+GenericSiteA,Generic Employee 24,42304,0.494826389, , In Reader,0.880196759, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:45:00
+GenericSiteA,Generic Employee 24,42305, , No Punch, ,0.753078704, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 24,42306,0.366828704, , In Reader,0.75287037, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:00:00
+GenericSiteA,Generic Employee 24,42307,0.482395833, , In Reader,0.876782407, , Out Reader, 00:00, 00:00, 00:00, 09:15, 46:15:00
+GenericSiteA,Generic Employee 24,42310,0.451319444, , In Reader,0.835578704, , Out Reader, 00:00, 00:00, 00:00, 09:00, 55:15:00
+GenericSiteA,Generic Employee 24,42311,0.438217593, , In Reader,0.836909722, , Out Reader, 00:00, 00:00, 00:00, 09:30, 64:45:00
+GenericSiteA,Generic Employee 24,42312,0.447465278, , In Reader,0.836944444, , Out Reader, 00:00, 00:00, 00:00, 09:15, 74:00:00
+GenericSiteA,Generic Employee 24,42316,0.324386574, , In Reader,0.711678241, , Out Reader, 00:00, 00:00, 00:00, 09:15, 83:15:00
+GenericSiteA,Generic Employee 24,42317,0.328738426, , In Reader,0.710335648, , Out Reader, 00:00, 00:00, 00:00, 09:00, 92:15:00
+GenericSiteA,Generic Employee 24,42319,0.327951389, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 24,42320,0.324050926, , In Reader,0.710856481, , Out Reader, 00:00, 00:00, 00:00, 09:15, 101:30:00
+GenericSiteA,Generic Employee 24,42321,0.322326389, , In Reader,0.712222222, , Out Reader, 00:00, 00:00, 00:00, 09:15, 110:45:00
+GenericSiteA,Generic Employee 24,42322,0.444270833, , In Reader,0.836759259, , Out Reader, 00:00, 00:00, 00:00, 09:15, 120:00:00
+GenericSiteA,Generic Employee 24,42324,0.449027778, , In Reader,0.835960648, , Out Reader, 00:00, 00:00, 00:00, 09:15, 129:15:00
+GenericSiteA,Generic Employee 24,42325,0.324097222, , In Reader,0.71087963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 138:30:00
+GenericSiteA,Generic Employee 24,42328,0.445925926, , In Reader,0.835578704, , Out Reader, 00:00, 00:00, 00:00, 09:15, 147:45:00
+GenericSiteA,Generic Employee 24,42329,0.365636574, , In Reader,0.753553241, , Out Reader, 00:00, 00:00, 00:00, 09:15, 157:00:00
+GenericSiteA,Generic Employee 24,42331, , No Punch, ,0.836840278, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 24,42332,0.446585648, , In Reader,0.83693287, , Out Reader, 00:00, 00:00, 00:00, 09:15, 166:15:00
+GenericSiteA,Generic Employee 25,42301,0.32193287, , In Reader,0.710717593, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 25,42302,0.452743056, , In Reader,0.841886574, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:15
+GenericSiteA,Generic Employee 25,42304, , No Punch, ,0.754409722, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 25,42305,0.37068287, , In Reader,0.757662037, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:15:00
+GenericSiteA,Generic Employee 25,42307,0.454039352, , In Reader,0.837280093, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:15:00
+GenericSiteA,Generic Employee 25,42308,0.499247685, , In Reader,0.880289352, , Out Reader, 00:00, 00:00, 00:00, 09:00, 45:15:00
+GenericSiteA,Generic Employee 25,42309,0.490231481, , In Reader,0.880752315, , Out Reader, 00:00, 00:00, 00:00, 09:15, 54:30:00
+GenericSiteA,Generic Employee 25,42310,0.452060185, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 25,42318,0.459074074, , In Reader,0.835798611, , Out Reader, 00:00, 00:00, 00:00, 09:00, 63:30:00
+GenericSiteA,Generic Employee 25,42319,0.45380787, , In Reader,0.83712963, , Out Reader, 00:00, 00:00, 00:00, 09:00, 72:30:00
+GenericSiteA,Generic Employee 25,42320,0.456342593, , In Reader,0.837592593, , Out Reader, 00:00, 00:00, 00:00, 09:00, 81:30:00
+GenericSiteA,Generic Employee 25,42321,0.453680556, , In Reader,0.835706019, , Out Reader, 00:00, 00:00, 00:00, 09:00, 90:30:00
+GenericSiteA,Generic Employee 25,42322,0.332685185, , In Reader,0.710694444, , Out Reader, 00:00, 00:00, 00:00, 09:00, 99:30:00
+GenericSiteA,Generic Employee 25,42324,0.333877315, , In Reader,0.712118056, , Out Reader, 00:00, 00:00, 00:00, 09:00, 108:30:00
+GenericSiteA,Generic Employee 25,42326, , No Punch, ,0.837766204, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 25,42327,0.413032407, , In Reader,0.795555556, , Out Reader, 00:00, 00:00, 00:00, 09:00, 117:30:00
+GenericSiteA,Generic Employee 25,42328,0.415763889, , In Reader,0.796203704, , Out Reader, 00:00, 00:00, 00:00, 09:00, 126:30:00
+GenericSiteA,Generic Employee 25,42329,0.332025463, , In Reader,0.711678241, , Out Reader, 00:00, 00:00, 00:00, 09:00, 135:30:00
+GenericSiteA,Generic Employee 26,42302,0.453125, , In Reader,0.834016204, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 26,42303, , No Punch, ,0.751851852, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 26,42305,0.458657407, , In Reader,0.834710648, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:00
+GenericSiteA,Generic Employee 26,42306,0.49505787, , In Reader,0.875972222, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:00:00
+GenericSiteA,Generic Employee 26,42307,0.370972222, , In Reader,0.751898148, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:00:00
+GenericSiteA,Generic Employee 26,42309,0.372071759, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 26,42309,0.75318287, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 26,42309,0.374166667, , In Reader,0.711400463, , Out Reader, 00:00, 00:00, 00:00, 08:00, 44:00:00
+GenericSiteA,Generic Employee 26,42311,0.373472222, , In Reader,0.751875, , Out Reader, 00:00, 00:00, 00:00, 09:00, 53:00:00
+GenericSiteA,Generic Employee 26,42312,0.457835648, , In Reader,0.834050926, , Out Reader, 00:00, 00:00, 00:00, 09:00, 62:00:00
+GenericSiteA,Generic Employee 26,42313,0.458900463, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 26,42316,0.32931713, , In Reader,0.712800926, , Out Reader, 00:00, 00:00, 00:00, 09:00, 71:00:00
+GenericSiteA,Generic Employee 26,42317,0.331365741, , In Reader,0.708854167, , Out Reader, 00:00, 00:00, 00:00, 09:00, 80:00:00
+GenericSiteA,Generic Employee 26,42319,0.372488426, , In Reader,0.75724537, , Out Reader, 00:00, 00:00, 00:00, 09:00, 89:00:00
+GenericSiteA,Generic Employee 26,42320,0.414953704, , In Reader,0.796574074, , Out Reader, 00:00, 00:00, 00:00, 09:00, 98:00:00
+GenericSiteA,Generic Employee 26,42321,0.445844907, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 26,42321,0.83556713, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 26,42321,0.33400463, , In Reader,0.713587963, , Out Reader, 00:00, 00:00, 00:00, 09:00, 107:00:00
+GenericSiteA,Generic Employee 26,42324,0.456655093, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 26,42325, , No Punch, ,0.836006944, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 26,42326,0.458368056, , In Reader,0.839953704, , Out Reader, 00:00, 00:00, 00:00, 09:00, 116:00:00
+GenericSiteA,Generic Employee 26,42327,0.340868056, , In Reader,0.714456019, , Out Reader, 00:00, 00:00, 00:00, 08:45, 124:45:00
+GenericSiteA,Generic Employee 26,42328,0.328611111, , In Reader,0.713703704, , Out Reader, 00:00, 00:00, 00:00, 09:00, 133:45:00
+GenericSiteA,Generic Employee 26,42331,0.409490741, , In Reader,0.793969907, , Out Reader, 00:00, 00:00, 00:00, 09:00, 142:45:00
+GenericSiteA,Generic Employee 26,42332,0.413194444, , In Reader,0.797951389, , Out Reader, 00:00, 00:00, 00:00, 09:00, 151:45:00
+GenericSiteA,Generic Employee 27,42303,0.415891204, , In Reader,0.795555556, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 27,42304,0.417303241, , In Reader,0.791041667, , Out Reader, 00:00, 00:00, 00:00, 08:45, 17:45
+GenericSiteA,Generic Employee 27,42305,0.417488426, , In Reader,0.414976852, Out of range, Out Reader, 00:00, 00:00, 00:00, 00:00, 17:45
+GenericSiteA,Generic Employee 27,42306,0.415023148, , In Reader,0.672326389, , Out Reader, 00:00, 00:00, 00:00, 06:00, 23:45
+GenericSiteA,Generic Employee 27,42311,0.328923611, , In Reader,0.716354167, , Out Reader, 00:00, 00:00, 00:00, 09:00, 32:45:00
+GenericSiteA,Generic Employee 27,42312,0.33287037, , In Reader,0.715011574, , Out Reader, 00:00, 00:00, 00:00, 09:00, 41:45:00
+GenericSiteA,Generic Employee 27,42313,0.465694444, , In Reader,0.843611111, , Out Reader, 00:00, 00:00, 00:00, 08:45, 50:30:00
+GenericSiteA,Generic Employee 27,42314,0.330868056, , In Reader,0.712233796, , Out Reader, 00:00, 00:00, 00:00, 09:00, 59:30:00
+GenericSiteA,Generic Employee 27,42315,0.379907407, , In Reader,0.757546296, , Out Reader, 00:00, 00:00, 00:00, 08:45, 68:15:00
+GenericSiteA,Generic Employee 27,42317,0.376168981, , In Reader,0.784583333, , Out Reader, 00:00, 00:00, 00:00, 09:45, 78:00:00
+GenericSiteA,Generic Employee 27,42318,0.374699074, , In Reader,0.760266204, , Out Reader, 00:00, 00:00, 00:00, 09:00, 87:00:00
+GenericSiteA,Generic Employee 27,42320,0.37462963, , In Reader,0.75287037, , Out Reader, 00:00, 00:00, 00:00, 09:00, 96:00:00
+GenericSiteA,Generic Employee 27,42321,0.378287037, , In Reader,0.760138889, , Out Reader, 00:00, 00:00, 00:00, 08:45, 104:45:00
+GenericSiteA,Generic Employee 27,42324,0.385243056, , In Reader,0.755787037, , Out Reader, 00:00, 00:00, 00:00, 08:45, 113:30:00
+GenericSiteA,Generic Employee 27,42325,0.380625, , In Reader,0.378229167, Out of range, Out Reader, 00:00, 00:00, 00:00, 00:00, 113:30:00
+GenericSiteA,Generic Employee 27,42326,0.378252315, , In Reader,0.757256944, , Out Reader, 00:00, 00:00, 00:00, 08:45, 122:15:00
+GenericSiteA,Generic Employee 27,42327,0.37130787, , In Reader,0.77712963, , Out Reader, 00:00, 00:00, 00:00, 09:30, 131:45:00
+GenericSiteA,Generic Employee 27,42331,0.38380787, , In Reader,0.764652778, , Out Reader, 00:00, 00:00, 00:00, 09:00, 140:45:00
+GenericSiteA,Generic Employee 27,42332,0.386921296, , In Reader,0.764039352, , Out Reader, 00:00, 00:00, 00:00, 09:00, 149:45:00
+GenericSiteA,Generic Employee 27,42333,0.322858796, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 28,42301,0.321863426, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 28,42302,0.360266204, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 28,42303,0.370844907, , In Reader,0.752326389, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 28,42305,0.415925926, , In Reader,0.793819444, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:00
+GenericSiteA,Generic Employee 28,42306,0.362326389, , In Reader,0.75181713, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:15:00
+GenericSiteA,Generic Employee 28,42307,0.495833333, , In Reader,0.876851852, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:15:00
+GenericSiteA,Generic Employee 28,42309,0.370671296, , In Reader,0.751956019, , Out Reader, 00:00, 00:00, 00:00, 09:00, 45:15:00
+GenericSiteA,Generic Employee 28,42310,0.362280093, , In Reader,0.713263889, , Out Reader, 00:00, 00:00, 00:00, 08:15, 53:30:00
+GenericSiteA,Generic Employee 28,42311,0.321377315, , In Reader,0.710717593, , Out Reader, 00:00, 00:00, 00:00, 09:15, 62:45:00
+GenericSiteA,Generic Employee 28,42312,0.321423611, , In Reader,0.710069444, , Out Reader, 00:00, 00:00, 00:00, 09:15, 72:00:00
+GenericSiteA,Generic Employee 28,42313,0.322627315, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 28,42315,0.447962963, , In Reader,0.834895833, , Out Reader, 00:00, 00:00, 00:00, 09:15, 81:15:00
+GenericSiteA,Generic Employee 28,42318,0.449236111, , In Reader,0.835462963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 90:30:00
+GenericSiteA,Generic Employee 28,42319,0.320474537, , In Reader,0.710138889, , Out Reader, 00:00, 00:00, 00:00, 09:15, 99:45:00
+GenericSiteA,Generic Employee 28,42320,0.445324074, , In Reader,0.836377315, , Out Reader, 00:00, 00:00, 00:00, 09:15, 109:00:00
+GenericSiteA,Generic Employee 28,42321,0.449270833, , In Reader,0.835798611, , Out Reader, 00:00, 00:00, 00:00, 09:15, 118:15:00
+GenericSiteA,Generic Employee 28,42323,0.447916667, , In Reader,0.83568287, , Out Reader, 00:00, 00:00, 00:00, 09:15, 127:30:00
+GenericSiteA,Generic Employee 28,42325,0.443668981, , In Reader,0.83587963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 136:45:00
+GenericSiteA,Generic Employee 28,42326,0.335451389, , In Reader,0.712835648, , Out Reader, 00:00, 00:00, 00:00, 09:00, 145:45:00
+GenericSiteA,Generic Employee 28,42327,0.443587963, , In Reader,0.834849537, , Out Reader, 00:00, 00:00, 00:00, 09:15, 155:00:00
+GenericSiteA,Generic Employee 28,42328,0.4478125, , In Reader,0.835219907, , Out Reader, 00:00, 00:00, 00:00, 09:15, 164:15:00
+GenericSiteA,Generic Employee 28,42329,0.406388889, , In Reader,0.793645833, , Out Reader, 00:00, 00:00, 00:00, 09:15, 173:30:00
+GenericSiteA,Generic Employee 28,42331,0.317430556, , In Reader,0.710185185, , Out Reader, 00:00, 00:00, 00:00, 09:15, 182:45:00
+GenericSiteA,Generic Employee 28,42332,0.361944444, , In Reader,0.752152778, , Out Reader, 00:00, 00:00, 00:00, 09:15, 192:00:00
+GenericSiteA,Generic Employee 29,42303,0.372534722, , In Reader,0.752511574, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 29,42304,0.371666667, , In Reader,0.776840278, , Out Reader, 00:00, 00:00, 00:00, 09:30, 18:30
+GenericSiteA,Generic Employee 29,42305, , No Punch, ,0.751331019, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 29,42306,0.374803241, , In Reader,0.752060185, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:30:00
+GenericSiteA,Generic Employee 29,42309,0.370185185, , In Reader,0.752083333, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:30:00
+GenericSiteA,Generic Employee 29,42310,0.445277778, , In Reader,0.834675926, , Out Reader, 00:00, 00:00, 00:00, 09:15, 45:45:00
+GenericSiteA,Generic Employee 29,42311,0.449675926, , In Reader,0.833611111, , Out Reader, 00:00, 00:00, 00:00, 09:15, 55:00:00
+GenericSiteA,Generic Employee 29,42312,0.447743056, , In Reader,0.833796296, , Out Reader, 00:00, 00:00, 00:00, 09:15, 64:15:00
+GenericSiteA,Generic Employee 29,42315,0.334814815, , In Reader,0.712465278, , Out Reader, 00:00, 00:00, 00:00, 09:00, 73:15:00
+GenericSiteA,Generic Employee 29,42316,0.327372685, , In Reader,0.711736111, , Out Reader, 00:00, 00:00, 00:00, 09:00, 82:15:00
+GenericSiteA,Generic Employee 29,42317,0.325590278, , In Reader,0.710300926, , Out Reader, 00:00, 00:00, 00:00, 09:15, 91:30:00
+GenericSiteA,Generic Employee 29,42318,0.326539352, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 29,42319,0.329282407, , In Reader,0.710949074, , Out Reader, 00:00, 00:00, 00:00, 09:00, 100:30:00
+GenericSiteA,Generic Employee 29,42321,0.329618056, , In Reader,0.710208333, , Out Reader, 00:00, 00:00, 00:00, 09:00, 109:30:00
+GenericSiteA,Generic Employee 29,42322,0.325833333, , In Reader,0.714756944, , Out Reader, 00:00, 00:00, 00:00, 09:00, 118:30:00
+GenericSiteA,Generic Employee 29,42324,0.325972222, , In Reader,0.711087963, , Out Reader, 00:00, 00:00, 00:00, 09:00, 127:30:00
+GenericSiteA,Generic Employee 29,42325,0.328865741, , In Reader,0.710775463, , Out Reader, 00:00, 00:00, 00:00, 09:00, 136:30:00
+GenericSiteA,Generic Employee 29,42326,0.332071759, , In Reader,0.710833333, , Out Reader, 00:00, 00:00, 00:00, 09:00, 145:30:00
+GenericSiteA,Generic Employee 29,42328,0.330219907, , In Reader,0.711886574, , Out Reader, 00:00, 00:00, 00:00, 09:00, 154:30:00
+GenericSiteA,Generic Employee 29,42329,0.323564815, , In Reader,0.712152778, , Out Reader, 00:00, 00:00, 00:00, 09:15, 163:45:00
+GenericSiteA,Generic Employee 29,42331,0.438888889, , In Reader,0.836979167, , Out Reader, 00:00, 00:00, 00:00, 09:30, 173:15:00
+GenericSiteA,Generic Employee 29,42332,0.45130787, , In Reader,0.837256944, , Out Reader, 00:00, 00:00, 00:00, 09:00, 182:15:00
+GenericSiteA,Generic Employee 30,42302,0.360150463, , In Reader,0.751284722, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 30,42304,0.357430556, , In Reader,0.75400463, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:30
+GenericSiteA,Generic Employee 30,42307,0.497303241, , In Reader,0.883425926, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:30:00
+GenericSiteA,Generic Employee 30,42308,0.496921296, , In Reader,0.880416667, , Out Reader, 00:00, 00:00, 00:00, 09:00, 36:30:00
+GenericSiteA,Generic Employee 30,42309,0.493310185, , In Reader,0.881238426, , Out Reader, 00:00, 00:00, 00:00, 09:00, 45:30:00
+GenericSiteA,Generic Employee 30,42310,0.457986111, , In Reader,0.837118056, , Out Reader, 00:00, 00:00, 00:00, 09:00, 54:30:00
+GenericSiteA,Generic Employee 30,42311,0.454293981, , In Reader,0.838657407, , Out Reader, 00:00, 00:00, 00:00, 09:00, 63:30:00
+GenericSiteA,Generic Employee 30,42314,0.459398148, , In Reader,0.840578704, , Out Reader, 00:00, 00:00, 00:00, 09:00, 72:30:00
+GenericSiteA,Generic Employee 30,42315,0.3253125, , In Reader,0.7103125, , Out Reader, 00:00, 00:00, 00:00, 09:15, 81:45:00
+GenericSiteA,Generic Employee 30,42316,0.309652778, , In Reader,0.709988426, , Out Reader, 00:00, 00:00, 00:00, 09:30, 91:15:00
+GenericSiteA,Generic Employee 30,42317,0.412314815, , In Reader,0.790578704, , Out Reader, 00:00, 00:00, 00:00, 08:45, 100:00:00
+GenericSiteA,Generic Employee 30,42320,0.314490741, , In Reader,0.711458333, , Out Reader, 00:00, 00:00, 00:00, 09:30, 109:30:00
+GenericSiteA,Generic Employee 30,42321,0.310717593, , In Reader,0.708611111, , Out Reader, 00:00, 00:00, 00:00, 09:30, 119:00:00
+GenericSiteA,Generic Employee 30,42322,0.313425926, , In Reader,0.712685185, , Out Reader, 00:00, 00:00, 00:00, 09:30, 128:30:00
+GenericSiteA,Generic Employee 30,42323,0.323263889, , In Reader,0.709571759, , Out Reader, 00:00, 00:00, 00:00, 09:15, 137:45:00
+GenericSiteA,Generic Employee 30,42324,0.311747685, , In Reader,0.711550926, , Out Reader, 00:00, 00:00, 00:00, 09:30, 147:15:00
+GenericSiteA,Generic Employee 30,42326,0.452604167, , In Reader,0.840162037, , Out Reader, 00:00, 00:00, 00:00, 09:00, 156:15:00
+GenericSiteA,Generic Employee 30,42327,0.454340278, , In Reader,0.845034722, , Out Reader, 00:00, 00:00, 00:00, 09:15, 165:30:00
+GenericSiteA,Generic Employee 31,42308,0.4778125, , In Reader,0.879444444, , Out Reader, 00:00, 00:00, 00:00, 09:30, 09:30
+GenericSiteA,Generic Employee 31,42310,0.4434375, , In Reader,0.836875, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:45
+GenericSiteA,Generic Employee 31,42311,0.438032407, , In Reader,0.834826389, , Out Reader, 00:00, 00:00, 00:00, 09:30, 28:15:00
+GenericSiteA,Generic Employee 31,42312,0.447800926, , In Reader,0.834699074, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:30:00
+GenericSiteA,Generic Employee 31,42313,0.367719907, , In Reader,0.753993056, , Out Reader, 00:00, 00:00, 00:00, 09:00, 46:30:00
+GenericSiteA,Generic Employee 31,42315,0.325266204, , In Reader,0.712511574, , Out Reader, 00:00, 00:00, 00:00, 09:15, 55:45:00
+GenericSiteA,Generic Employee 31,42318,0.441018519, , In Reader,0.8371875, , Out Reader, 00:00, 00:00, 00:00, 09:15, 65:00:00
+GenericSiteA,Generic Employee 31,42319,0.507719907, , In Reader,0.836296296, , Out Reader, 00:00, 00:00, 00:00, 07:45, 72:45:00
+GenericSiteA,Generic Employee 31,42320,0.438761574, , In Reader,0.836956019, , Out Reader, 00:00, 00:00, 00:00, 09:30, 82:15:00
+GenericSiteA,Generic Employee 31,42321,0.324664352, , In Reader,0.713020833, , Out Reader, 00:00, 00:00, 00:00, 09:15, 91:30:00
+GenericSiteA,Generic Employee 31,42323,0.400752315, , In Reader,0.793645833, , Out Reader, 00:00, 00:00, 00:00, 09:15, 100:45:00
+GenericSiteA,Generic Employee 31,42324,0.327708333, , In Reader,0.70994213, , Out Reader, 00:00, 00:00, 00:00, 09:00, 109:45:00
+GenericSiteA,Generic Employee 31,42327,0.450532407, , In Reader,0.844282407, , Out Reader, 00:00, 00:00, 00:00, 09:30, 119:15:00
+GenericSiteA,Generic Employee 31,42328,0.407719907, , In Reader,0.796238426, , Out Reader, 00:00, 00:00, 00:00, 09:15, 128:30:00
+GenericSiteA,Generic Employee 31,42329,0.407662037, , In Reader,0.796585648, , Out Reader, 00:00, 00:00, 00:00, 09:15, 137:45:00
+GenericSiteA,Generic Employee 31,42330,0.413877315, , In Reader,0.795185185, , Out Reader, 00:00, 00:00, 00:00, 09:00, 146:45:00
+GenericSiteA,Generic Employee 31,42331,0.448576389, , In Reader,0.83693287, , Out Reader, 00:00, 00:00, 00:00, 09:15, 156:00:00
+GenericSiteA,Generic Employee 32,42301,0.454293981, , In Reader,0.834699074, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 32,42303,0.382280093, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 32,42304,0.495613426, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 32,42304,0.373958333, , In Reader,0.750914352, , Out Reader, 00:00, 00:00, 00:00, 09:00, 18:00
+GenericSiteA,Generic Employee 32,42306,0.371493056, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 32,42309,0.493402778, , In Reader,0.879293981, , Out Reader, 00:00, 00:00, 00:00, 09:00, 27:00:00
+GenericSiteA,Generic Employee 32,42310,0.449236111, , In Reader,0.835775463, , Out Reader, 00:00, 00:00, 00:00, 09:15, 36:15:00
+GenericSiteA,Generic Employee 32,42311,0.339155093, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 32,42315,0.454814815, , In Reader,0.83431713, , Out Reader, 00:00, 00:00, 00:00, 09:00, 45:15:00
+GenericSiteA,Generic Employee 32,42316,0.365416667, , In Reader,0.751597222, , Out Reader, 00:00, 00:00, 00:00, 09:15, 54:30:00
+GenericSiteA,Generic Employee 32,42317, , No Punch, ,0.835069444, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 32,42324,0.449699074, , In Reader,0.835011574, , Out Reader, 00:00, 00:00, 00:00, 09:15, 63:45:00
+GenericSiteA,Generic Employee 32,42326,0.447824074, , In Reader,0.835520833, , Out Reader, 00:00, 00:00, 00:00, 09:15, 73:00:00
+GenericSiteA,Generic Employee 32,42327,0.459247685, , In Reader,0.836689815, , Out Reader, 00:00, 00:00, 00:00, 09:00, 82:00:00
+GenericSiteA,Generic Employee 32,42328,0.451539352, , In Reader,0.837719907, , Out Reader, 00:00, 00:00, 00:00, 09:00, 91:00:00
+GenericSiteA,Generic Employee 32,42329,0.327766204, , In Reader,0.710474537, , Out Reader, 00:00, 00:00, 00:00, 09:00, 100:00:00
+GenericSiteA,Generic Employee 32,42331,0.336284722, , In Reader,0.711041667, , Out Reader, 00:00, 00:00, 00:00, 08:45, 108:45:00
+GenericSiteA,Generic Employee 32,42332,0.321122685, , In Reader,0.709814815, , Out Reader, 00:00, 00:00, 00:00, 09:15, 118:00:00
+GenericSiteA,Generic Employee 33,42301,0.322858796, , In Reader,0.711203704, , Out Reader, 00:00, 00:00, 00:00, 09:15, 09:15
+GenericSiteA,Generic Employee 33,42304,0.358599537, , In Reader,0.750949074, , Out Reader, 00:00, 00:00, 00:00, 09:15, 18:30
+GenericSiteA,Generic Employee 33,42305,0.491493056, , In Reader,0.877662037, , Out Reader, 00:00, 00:00, 00:00, 09:15, 27:45:00
+GenericSiteA,Generic Employee 33,42306,0.445162037, , In Reader,0.837060185, , Out Reader, 00:00, 00:00, 00:00, 09:15, 37:00:00
+GenericSiteA,Generic Employee 33,42307,0.487824074, , In Reader,0.877361111, , Out Reader, 00:00, 00:00, 00:00, 09:15, 46:15:00
+GenericSiteA,Generic Employee 33,42308,0.376875, , In Reader,0.752013889, , Out Reader, 00:00, 00:00, 00:00, 09:00, 55:15:00
+GenericSiteA,Generic Employee 33,42310,0.362337963, , In Reader,0.709918981, , Out Reader, 00:00, 00:00, 00:00, 08:15, 63:30:00
+GenericSiteA,Generic Employee 33,42311,0.408032407, , In Reader,0.794490741, , Out Reader, 00:00, 00:00, 00:00, 09:15, 72:45:00
+GenericSiteA,Generic Employee 33,42312,0.442106481, , In Reader,0.836296296, , Out Reader, 00:00, 00:00, 00:00, 09:15, 82:00:00
+GenericSiteA,Generic Employee 33,42313,0.319733796, , In Reader,0.710509259, , Out Reader, 00:00, 00:00, 00:00, 09:15, 91:15:00
+GenericSiteA,Generic Employee 33,42314,0.319340278, , In Reader,0.711157407, , Out Reader, 00:00, 00:00, 00:00, 09:15, 100:30:00
+GenericSiteA,Generic Employee 33,42319,0.323425926, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 33,42320,0.321956019, , In Reader,0.7128125, , Out Reader, 00:00, 00:00, 00:00, 09:15, 109:45:00
+GenericSiteA,Generic Employee 33,42321,0.316296296, , In Reader,0.712418981, , Out Reader, 00:00, 00:00, 00:00, 09:15, 119:00:00
+GenericSiteA,Generic Employee 33,42322,0.441701389, , In Reader,0.836400463, , Out Reader, 00:00, 00:00, 00:00, 09:15, 128:15:00
+GenericSiteA,Generic Employee 33,42323,0.323333333, , In Reader,0.71212963, , Out Reader, 00:00, 00:00, 00:00, 09:15, 137:30:00
+GenericSiteA,Generic Employee 33,42325,0.324166667, , In Reader,0.71099537, , Out Reader, 00:00, 00:00, 00:00, 09:15, 146:45:00
+GenericSiteA,Generic Employee 33,42326,0.332152778, , In Reader,0.710034722, , Out Reader, 00:00, 00:00, 00:00, 09:00, 155:45:00
+GenericSiteA,Generic Employee 33,42327,0.449513889, , In Reader,0.835289352, , Out Reader, 00:00, 00:00, 00:00, 09:15, 165:00:00
+GenericSiteA,Generic Employee 33,42328,0.447604167, , In Reader,0.835636574, , Out Reader, 00:00, 00:00, 00:00, 09:15, 174:15:00
+GenericSiteA,Generic Employee 33,42330, , No Punch, ,0.710497685, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 33,42331, , No Punch, ,0.323784722, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 33,42331, , No Punch, ,0.712337963, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 33,42332,0.322071759, , In Reader,0.712106481, , Out Reader, 00:00, 00:00, 00:00, 09:15, 183:30:00
+GenericSiteA,Generic Employee 33,42333,0.363657407, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 34,42305,0.494641204, , In Reader,0.878981481, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 34,42306,0.498668981, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 34,42307, , No Punch, ,0.751550926, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 34,42309,0.719664352, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 34,42309,0.529375, , In Reader,0.833148148, , Out Reader, 00:00, 00:00, 00:00, 07:00, 16:00
+GenericSiteA,Generic Employee 34,42311,0.438472222, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 34,42313, , No Punch, ,0.838981481, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 34,42317,0.341666667, , In Reader,0.723958333, , Out Reader, 00:00, 00:00, 00:00, 09:00, 25:00:00
+GenericSiteA,Generic Employee 34,42318,0.359594907, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 34,42319,0.458460648, , In Reader,0.837407407, , Out Reader, 00:00, 00:00, 00:00, 09:00, 34:00:00
+GenericSiteA,Generic Employee 34,42320,0.458078704, , In Reader,0.836990741, , Out Reader, 00:00, 00:00, 00:00, 09:00, 43:00:00
+GenericSiteA,Generic Employee 34,42321, , No Punch, ,0.792222222, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 34,42325,0.329803241, , In Reader,0.711215278, , Out Reader, 00:00, 00:00, 00:00, 09:00, 52:00:00
+GenericSiteA,Generic Employee 34,42326,0.332106481, , In Reader,0.708252315, , Out Reader, 00:00, 00:00, 00:00, 08:45, 60:45:00
+GenericSiteA,Generic Employee 34,42327,0.326261574, , In Reader,0.708634259, , Out Reader, 00:00, 00:00, 00:00, 09:00, 69:45:00
+GenericSiteA,Generic Employee 34,42328,0.323472222, , In Reader,0.713622685, , Out Reader, 00:00, 00:00, 00:00, 09:15, 79:00:00
+GenericSiteA,Generic Employee 34,42329,0.32724537, , In Reader,0.708564815, , Out Reader, 00:00, 00:00, 00:00, 09:00, 88:00:00
+GenericSiteA,Generic Employee 34,42331,0.310694444, , In Reader,0.708530093, , Out Reader, 00:00, 00:00, 00:00, 09:30, 97:30:00
+GenericSiteA,Generic Employee 34,42332,0.319074074, , In Reader,0.718206019, , Out Reader, 00:00, 00:00, 00:00, 09:15, 106:45:00
+GenericSiteA,Generic Employee 34,42333,0.314791667, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 35,42303,0.367858796, , In Reader,0.753194444, , Out Reader, 00:00, 00:00, 00:00, 09:00, 09:00
+GenericSiteA,Generic Employee 35,42304,0.424814815, , In Reader,0.75869213, , Out Reader, 00:00, 00:00, 00:00, 07:45, 16:45
+GenericSiteA,Generic Employee 35,42305,0.367106481, , In Reader,0.754756944, , Out Reader, 00:00, 00:00, 00:00, 09:15, 26:00:00
+GenericSiteA,Generic Employee 35,42306,0.367210648, , In Reader,0.761851852, , Out Reader, 00:00, 00:00, 00:00, 09:30, 35:30:00
+GenericSiteA,Generic Employee 35,42307,0.359270833, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 35,42312,0.336770833, , In Reader,0.712337963, , Out Reader, 00:00, 00:00, 00:00, 08:45, 44:15:00
+GenericSiteA,Generic Employee 35,42313,0.327233796, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 35,42314,0.333287037, , In Reader,0.718703704, , Out Reader, 00:00, 00:00, 00:00, 09:00, 53:15:00
+GenericSiteA,Generic Employee 35,42324,0.33875, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 35,42325,0.330509259, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 35,42326,0.332314815, , In Reader,0.72099537, , Out Reader, 00:00, 00:00, 00:00, 09:15, 62:30:00
+GenericSiteA,Generic Employee 35,42327, , No Punch, ,0.714155093, , Out Reader, 00:00, 00:00, 00:00, 00:00, Error
+GenericSiteA,Generic Employee 35,42328,0.323715278, , In Reader,0.713761574, , Out Reader, 00:00, 00:00, 00:00, 09:15, 71:45:00
+GenericSiteA,Generic Employee 35,42332,0.331053241, , In Reader,0.739282407, , Out Reader, 00:00, 00:00, 00:00, 09:30, 81:15:00
+GenericSiteA,Generic Employee 35,42333,0.317118056, , In Reader, , No Punch, , 00:00, 00:00, 00:00, 00:00, Error
